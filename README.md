@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi everybody! 👋
 
+My name is Dax. I am a current student and devoloping my coding skills!
 <!--
 **dbishop45/dbishop45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
